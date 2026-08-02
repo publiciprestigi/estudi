@@ -11,5 +11,7 @@ Directors amb més pel·lícules dins del Top 100. El primer rànquing ordena pe
 <!-- /comentari-r1 -->
 
 <!-- comentari-r2 -->
+La columna de variació (Var.) indica el canvi de posició respecte al rànquing anterior de només films del Top 100.
+
 **Atenció**: aquest rànquing té una limitació estructural important. Els films de context no són els films 101–200 del cinema espanyol, sinó només títols citats als textos de cada dècada per ajudar a explicar el període. La selecció no és exhaustiva i afavoreix més fàcilment els directors de dècades recents, on el nombre d’espectadors necessari per destacar és molt més baix. Per tant, el rànquing serveix com a lectura complementària, no com a classificació absoluta.
 <!-- /comentari-r2 -->
