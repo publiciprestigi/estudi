@@ -11,7 +11,5 @@ Directores con más películas dentro del Top 100. El primer ranking ordena por 
 <!-- /comentari-r1 -->
 
 <!-- comentari-r2 -->
-La columna de variación (Var.) indica el cambio de posición respecto al ranking anterior, compuesto únicamente por films del Top 100.
-
 **Atención**: este ranking tiene una limitación estructural importante. Los films de contexto no son los films 101–200 del cine español, sino solo títulos citados en los textos de cada década para ayudar a explicar el periodo. La selección no es exhaustiva y favorece más fácilmente a los directores de décadas recientes, en las que el número de espectadores necesario para destacar es mucho menor. Por tanto, el ranking sirve como lectura complementaria, no como clasificación absoluta.
 <!-- /comentari-r2 -->
