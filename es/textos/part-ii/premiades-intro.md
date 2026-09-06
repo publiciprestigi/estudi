@@ -1,5 +1,5 @@
 <!-- intro -->
-Recorrido cronológico por todos los premios obtenidos en las secciones oficiales competitivas de los cuatro festivales (Cannes, Venecia, Berlín y San Sebastián), organizado por décadas.
+Recorrido cronológico por todos los premios obtenidos en las secciones oficiales competitivas de los cuatro grandes festivales (Cannes, Venecia, Berlín y San Sebastián), organizado por décadas.
 <!-- /intro -->
 
 <!-- resum-intro -->
