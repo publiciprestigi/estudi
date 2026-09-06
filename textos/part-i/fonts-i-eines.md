@@ -40,3 +40,5 @@ Les xifres marcades amb ≈ indiquen dades estimades. El total de mercat anual d
 ## Sobre els textos de 'Context'
 
 Els textos de context sobre les primeres dècades s'han redactat a partir d'una síntesi de la historiografia clàssica del cinema espanyol, amb especial referència a: *Historia del cine español* de Romà Gubern et al. (Cátedra, 1995), *El cine español después de Franco* de John Hopewell (El arquero, 1989) i *Del azul al verde: el cine español bajo el franquismo* de Domènec Font (Avance, 1976). Per a les dècades més recents, la síntesi prové de crítica i periodisme cinematogràfic contemporani. En tots els casos es tracta de valoracions contextuals i interpretatives de l'autor.
+
+<iframe src="https://publiciprestigi.substack.com/embed?transparent=1" width="480" height="320" style="border: 0; background: transparent" frameborder="0" scrolling="no"></iframe>
